@@ -1,0 +1,45 @@
+.container{
+    width:500px;
+    height: 1000px;
+    background-color: burlywood;
+    padding-left: 30px;
+
+}
+
+#height,
+#weight{
+     height: 25px;
+     width: 125px;
+     margin-top: 10px;
+}
+
+#weight-guide{
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+#results{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: yellowgreen;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    background-color: rgb(233, 219, 226);
+    padding: 1px 30px;
+    border-radius: 8px;
+    color: #212121;
+    border: 2px solid black;
+    font-size: 15px;
+    text-align: center;
+
+}
+h1{
+    padding-left: 15px;
+    padding-left: 25px;
+}
